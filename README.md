@@ -18,6 +18,11 @@ Intended functionalities include:
 - [ ] Switch to environment.prod.ts (update app.module.ts)
 - [ ] Variable for where user is (boolean atPHS?)
 - [ ] Array? for user check ins/outs
+- [ ] Check in/out option as single choice buttons instead of text
+- [ ] Make time date object rather than string
+- [ ] Add search function for lookup by name (atPHS variable display)
+- [X] Update and delete buttons instead of double click delete
+- [ ] Split screen display (6 columns for entering data, 6 columns for searching)
 ```
 
 # Angularfs
